@@ -5,4 +5,3 @@ u can create multiple users and each user have different data under that users n
 
 This website is uses postgres SQL for backend database and Nodejs express for backend
 
-To use u have to install the node modules .
